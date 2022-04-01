@@ -12,6 +12,8 @@
 
 - I’m looking to collaborate on projects that need a more strategic and commercial vision
 
+[![dncarvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=dncarvalho)](https://github.com/dncarvalho/github-readme-stats)
+
 <!---
 dncarvalho/dncarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
