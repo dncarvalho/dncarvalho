@@ -6,7 +6,13 @@
 
 ### About me
 - 👀 I’m interested in learn and delve into the world of programming
-- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+- 🌱 I’m currently learning 
+           
+
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" 
+     height="70"/>
+          
 
 - 💞️ I’m looking to collaborate on projects that need a more strategic and commercial vision
 - 📫 How to reach me, through this GitHub profile
